@@ -72,7 +72,7 @@ namespace Parents_Assistant___OOP_project
                     }
                 }
                 Server.Port = 587;
-                Server.Credentials = new System.Net.NetworkCredential("thongthailb2@gmail.com", "Thai******:::542001");
+                Server.Credentials = new System.Net.NetworkCredential("emai", "********");
                 Server.EnableSsl = true;
                 Server.Send(mail);
                 Console.WriteLine("send mail");
