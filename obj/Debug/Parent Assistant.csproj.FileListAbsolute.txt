@@ -1,0 +1,29 @@
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\Parent Assistant.exe.config
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\Parent Assistant.exe
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\Parent Assistant.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent Assistant.csproj.AssemblyReference.cache
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent_Assistant.Properties.Resources.resources
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent Assistant.csproj.GenerateResource.cache
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent Assistant.csproj.CoreCompileInputs.cache
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent Assistant.exe
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent Assistant.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent_Assistant.Form1.resources
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\CoreUI.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\FontAwesome.Sharp.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\CoreUI.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent_Assistant.Forms.SettingForm.resources
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent_Assistant.Forms.EmailAddressForm.resources
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent_Assistant.Forms.ScreenTimeLimitForm.resources
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent_Assistant.Forms.ExitProgramForm.resources
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent_Assistant.Forms.SetExitPasswordForm.resources
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent_Assistant.Forms.Home.resources
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\CaptureProccess.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\Logic.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\SendMailProccess.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\CaptureProccess.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\Logic.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\SendMailProccess.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\TimeScreenLimit.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\bin\Debug\TimeScreenLimit.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\Parent Assistant\obj\Debug\Parent Assistant.csproj.ResolveComReference.cache
