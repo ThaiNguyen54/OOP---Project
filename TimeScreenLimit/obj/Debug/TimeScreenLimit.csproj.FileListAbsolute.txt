@@ -1,0 +1,6 @@
+D:\C# Project\OOP PROJECT\OOP---Project-main\TimeScreenLimit\bin\Debug\TimeScreenLimit.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\TimeScreenLimit\bin\Debug\TimeScreenLimit.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\TimeScreenLimit\obj\Debug\TimeScreenLimit.csproj.CoreCompileInputs.cache
+D:\C# Project\OOP PROJECT\OOP---Project-main\TimeScreenLimit\obj\Debug\TimeScreenLimit.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\TimeScreenLimit\obj\Debug\TimeScreenLimit.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\TimeScreenLimit\obj\Debug\TimeScreenLimit.csproj.AssemblyReference.cache

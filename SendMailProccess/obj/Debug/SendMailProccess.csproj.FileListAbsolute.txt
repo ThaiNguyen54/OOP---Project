@@ -1,0 +1,8 @@
+D:\C# Project\OOP PROJECT\OOP---Project-main\SendMailProccess\bin\Debug\SendMailProccess.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\SendMailProccess\bin\Debug\SendMailProccess.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\SendMailProccess\bin\Debug\CaptureProccess.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\SendMailProccess\bin\Debug\CaptureProccess.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\SendMailProccess\obj\Debug\SendMailProccess.csproj.AssemblyReference.cache
+D:\C# Project\OOP PROJECT\OOP---Project-main\SendMailProccess\obj\Debug\SendMailProccess.csproj.CoreCompileInputs.cache
+D:\C# Project\OOP PROJECT\OOP---Project-main\SendMailProccess\obj\Debug\SendMailProccess.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\SendMailProccess\obj\Debug\SendMailProccess.pdb

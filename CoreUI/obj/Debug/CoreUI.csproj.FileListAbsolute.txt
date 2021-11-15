@@ -1,0 +1,8 @@
+D:\C# Project\OOP PROJECT\OOP---Project-main\CoreUI\obj\Debug\CoreUI.csproj.CoreCompileInputs.cache
+D:\C# Project\OOP PROJECT\OOP---Project-main\CoreUI\bin\Debug\CoreUI.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\CoreUI\bin\Debug\CoreUI.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\CoreUI\obj\Debug\CoreUI.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\CoreUI\obj\Debug\CoreUI.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\CoreUI\obj\Debug\CoreUI.CustomedTextBox.resources
+D:\C# Project\OOP PROJECT\OOP---Project-main\CoreUI\obj\Debug\CoreUI.csproj.GenerateResource.cache
+D:\C# Project\OOP PROJECT\OOP---Project-main\CoreUI\obj\Debug\CoreUI.csproj.AssemblyReference.cache

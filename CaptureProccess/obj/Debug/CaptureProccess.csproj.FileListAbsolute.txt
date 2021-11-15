@@ -1,0 +1,6 @@
+D:\C# Project\OOP PROJECT\OOP---Project-main\CaptureProccess\bin\Debug\CaptureProccess.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\CaptureProccess\bin\Debug\CaptureProccess.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\CaptureProccess\obj\Debug\CaptureProccess.csproj.CoreCompileInputs.cache
+D:\C# Project\OOP PROJECT\OOP---Project-main\CaptureProccess\obj\Debug\CaptureProccess.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\CaptureProccess\obj\Debug\CaptureProccess.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\CaptureProccess\obj\Debug\CaptureProccess.csproj.AssemblyReference.cache

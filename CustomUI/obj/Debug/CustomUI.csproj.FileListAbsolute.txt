@@ -1,0 +1,6 @@
+D:\C# Project\OOP PROJECT\OOP---Project-main\CustomUI\bin\Debug\CustomUI.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\CustomUI\bin\Debug\CustomUI.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\CustomUI\obj\Debug\CustomUI.csproj.CoreCompileInputs.cache
+D:\C# Project\OOP PROJECT\OOP---Project-main\CustomUI\obj\Debug\CustomUI.dll
+D:\C# Project\OOP PROJECT\OOP---Project-main\CustomUI\obj\Debug\CustomUI.pdb
+D:\C# Project\OOP PROJECT\OOP---Project-main\CustomUI\obj\Debug\CustomUI.csproj.AssemblyReference.cache
